@@ -167,8 +167,8 @@ print(two_power_of_five)  # 32
    output
    [1, 2, 3, 4, 5, 6, 7, 8, 9]
    ```
-
-3. Using list comprehension create the following list of tuples:
+ **Not Tried**
+ 3. Using list comprehension create the following list of tuples: 
    ```py
    [(0, 1, 0, 0, 0, 0, 0),
    (1, 1, 1, 1, 1, 1, 1),
@@ -182,13 +182,15 @@ print(two_power_of_five)  # 32
    (9, 1, 9, 81, 729, 6561, 59049),
    (10, 1, 10, 100, 1000, 10000, 100000)]
    ```
-4. Flatten the following list to a new list:
+   **Not Completed**
+ 4. Flatten the following list to a new list:
    ```py
    countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
    output:
    [['FINLAND','FIN', 'HELSINKI'], ['SWEDEN', 'SWE', 'STOCKHOLM'], ['NORWAY', 'NOR', 'OSLO']]
    ```
-5. Change the following list to a list of dictionaries:
+   **Not completed**
+   5. Change the following list to a list of dictionaries: 
    ```py
    countries = [[('Finland', 'Helsinki')], [('Sweden', 'Stockholm')], [('Norway', 'Oslo')]]
    output:
